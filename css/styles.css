@@ -1,0 +1,53 @@
+h1
+{
+
+    background-color: red;
+}
+body *
+{ border: 1px solid black;
+   align-items: center;
+}
+.left_column
+{ 
+float: left;
+    width: 50%;
+}
+.right_column
+{
+float: right;
+    width: 50%;
+}
+header h1
+{
+    color:green;
+}
+
+
+body h2{
+    background-color: aliceblue;
+}
+
+#International_career 
+{
+    color:Red;
+    text-decoration:underline overline black;
+}
+h1, p
+{
+    text-transform: capitalize;
+}
+
+.conclusion
+{
+    padding: 10px;
+    margin:  30px;
+}
+
+h3.death
+{ display: flex;
+    justify-content:space-evenly;}
+footer {
+     position: absolute;
+  bottom: 0;
+  width: 100%;
+}
